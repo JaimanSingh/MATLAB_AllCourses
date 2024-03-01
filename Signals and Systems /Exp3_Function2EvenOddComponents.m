@@ -1,5 +1,3 @@
-%Write a program to decompose x(n) = [u(n) - u(n-10)] into its even and odd components, and also plot the respective waveforms.
-
 %Write a program to decompose x(n)
 n=-20:1:20;
 a=[zeros(1,20) ones(1,21)];
